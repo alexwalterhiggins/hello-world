@@ -1,2 +1,4 @@
 # hello-world
-test
+
+Time to stop lurking and start learnin' and earnin'
+-A
